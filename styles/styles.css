@@ -155,13 +155,13 @@ a.button:any-link, button {
   font-style: normal;
   font-weight: 600;
   cursor: pointer;
-  color: #BE0108;
-  background-color: var(--link-color);
+  color: white;
+  background-color: #BE0108;
   margin: 16px 0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  border-radius: 30px;
+  border-radius: 12px;
 }
 
 a.button:hover, a.button:focus, button:hover, button:focus  {
